@@ -2,8 +2,6 @@ package br.com.alura.screenmatch.model;
 
 import java.util.OptionalDouble;
 
-import br.com.alura.screenmatch.service.ConsultaChatGPT;
-
 public class Serie {
     private String titulo;
     private Integer totalTemporadas;
